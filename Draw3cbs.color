@@ -1,0 +1,7 @@
+*fontList:  9x15
+*XmDrawingArea*background:          white
+*XmPushButton*background:  			Black
+*XmPushButton*foreground:  			White
+*XmDrawingArea*foreground:          Red
+
+

@@ -1,0 +1,17 @@
+Name : Ujwal Manjunath
+login: Umanjuna
+
+Files submitted
+1. draw3cbs.c
+2. Draw2cbs.color
+3. Readme
+4. Makefile
+
+The program interface has a drawing canvas to draw three basic colored shapes: lines, circles and squares.
+To draw a line the distance between two points should be less than 100
+To draw a circle the distance between the two points must be greater than 100 and less than 200
+if distance between two points is greater than 200 , a rectangle is drawn.
+
+Five colors that i have chosen are Red, Green, Blue, Brown and Orange.
+
+
