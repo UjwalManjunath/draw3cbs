@@ -1,13 +1,10 @@
 Name : Ujwal Manjunath
 
-
 Files submitted
 1. draw3cbs.c
 2. Draw2cbs.color
 3. Readme
 4. Makefile
-
-
 
 The program interface has a drawing canvas to draw three basic colored shapes: lines, circles and rectangles.
 To draw a shape the user clicks twice at two different points  p1 and p2.
